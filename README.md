@@ -1,1 +1,1 @@
-# edBot
+# Educative Bot
