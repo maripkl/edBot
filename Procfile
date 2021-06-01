@@ -1,1 +1,1 @@
-web: python edBot.py
+web: python edBot.py -p $PORT
