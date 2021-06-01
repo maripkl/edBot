@@ -10,11 +10,11 @@ import pickle
 
 import telebot
 from telebot import types
-import apiai
-import sys
+# import apiai
+# import sys
 import os
 # import dialogflow
-import json
+# import json
 from random import randint
 
 
