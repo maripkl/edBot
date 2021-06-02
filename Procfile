@@ -1,1 +1,1 @@
-worker: python edBot.py -p $$PORT
+worker: python edBot.py -p ${PORT:33500}
