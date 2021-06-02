@@ -385,7 +385,7 @@ from google.api_core.exceptions import InvalidArgument
 def command_default(m):
     DIALOGFLOW_PROJECT_ID = 'small-talk-ed-ilgo'
     DIALOGFLOW_LANGUAGE_CODE = 'en'
-    GOOGLE_APPLICATION_CREDENTIALS = 'small-talk-ed.json'
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'small-talk-ed.json'
     SESSION_ID = 'current-user-id'
     text_to_be_analyzed = m.text
     session_client = dialogflow.SessionsClient()
