@@ -136,8 +136,8 @@ def get_int(message):
     bot.register_next_step_handler(message, get_goals)
 
 def get_goals(message):
-    global goals
-    goals = message.text
+    # global goal
+    # goal = message.text
     usersInfo.append([message.text])
     bot.send_message(message.from_user.id, "Супер! Теперь я могу составлять индивидуальные рекомендации и помогать тебе с изучением английского!")
     creds = None
