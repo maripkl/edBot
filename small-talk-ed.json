@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "small-talk-ed-ilgo",
+  "private_key_id": "7c180f138063095c68a1cea2699960e8738beb65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXOJHBRuQrDYSB\npXA0vNIRfd4uPs0nS/PxXJcXave1qKhp0SFLAfd/FGuc2+x2PiITZLLBkPg4PM7c\nS1eijuSUQ2ZcwkGZPBbbfg3bI8n4V673IEqkBAaknjf0cucKwoPXFaBXOP15j+oQ\npEcOQvK1h6L1KwnOfTASpUvCNFuqY77PaSLm/G4FknHuYvrF8Cw/U/pdgh4zWh+X\nUFpnHHmbLj36o0pDe9E+No5OwF5zvMiqZ5M32RaCyiJm65t8E/NQlLoswqw6TNem\nmnD9EXtweAmZiSIFN/s9Rj7uznxw8eMMQdR+r6c4SOIOMMkodGg0DSn8OkYe9h7f\nCW4xkgj5AgMBAAECggEAHVn5DINGiUa75/AlGc9mlMeSBvbgmhaHeFso5n44K1Xb\nroJNjIIKuGtNwen7+S1xLsN2YNTTIRNIcYDcNyy2GEMGzM1Vrzj3FM5gQR8uthnK\n16O4aSJw6aXeJX/h8Xg039wOPa/Nnzk8TNOeCRocgvibPCwI4L/yw0O7Myw3eJhM\nJt1J30bRQ8EDb8dCLfG6TUEXCDaCME4+HQaLtpjSteylogdCWbKtWvLCLKzI8ZuY\nMUpguYV4KqESVxNeRyTqweg96o75HfqzHs+P/KuS0/f4eIZSOyoz90udImFgR7MN\nfDFTvBkMvc4b3bbtwm2VaHnPa8WS+JkM4CEYBOmq+wKBgQDSIJ77p07BL/b8DJkn\nlXjV5MjWAmPQayyQGOM9Nx8w9uoxSZjghNjt38Lg+xcM21oUrhaikzTruUwqIksW\n1Sk+WHyFJDOpWegyhCw1itgpMI5PaTengJgD2w7pfO54hI0+1+Vy0SpgiOmfrP8Q\n8nTli6Q4c3Ft7qjqrOOJMSG49wKBgQC4O9jR1kKHYV6otjvk73wC7QaFyPW0IZ/5\nBiA4vuqXbRDZth/ZP4GR9fh9T1XZEZ4lcU0labOJ8jXP70M95GzJa25QxQqgH8fP\nGEtCUG7Nsg5TaRXDOErGTH/qfZuTuZxvK5SAZm7zXthOxSjBIRI9b83Sda0MBvbj\naRmVyiNBjwKBgQDCuLAbjMOSixxaHmKfKAi+TjE/AR/2OBsnvah3RemFuorz+bvN\n884DQeSaEJUfuPYVS+514eyctS47rWPgWNDLkbxytUWanlJq3ckKJQyDvxdhx6Nn\needlS07aWIe070DlB7T9XY/jvXyiF/KWhdiGD42zMmfe89ddAbIppHoXqQKBgFtl\nVSrEID0JEOyhexUXuW26KII2L64tAC+J2nJMRBTbBoD62NHtr1m5rIx9zxjgpJPu\noVbuGSNWBVwiVjleGJnTseZf2eWV3oneg3dib5Wbv3+hoio2wuGdEdhCd+vRKMn9\n1K3eIyyY4LYzGQS2Y1YXIQRHXJGa4t/uQ8MLhHIBAoGBALf93+IUOHd3cr/JqeI2\np7aI3lcTvdc1IMXqoVG7mSgaV311+01v6mlkdJPvvFiOHK+MhIAy+mqDf3bLDS7y\nWZEVM3lwOWaajD3qmHQQ10qj3ZIE/3iuzLJQz0SuvZKtHCIJII2TxeeLgb066IrD\n6awkEhmCxjOzdlS1Z7YhKP40\n-----END PRIVATE KEY-----\n",
+  "client_email": "edbot-988@small-talk-ed-ilgo.iam.gserviceaccount.com",
+  "client_id": "107513102877893624663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edbot-988%40small-talk-ed-ilgo.iam.gserviceaccount.com"
+}
